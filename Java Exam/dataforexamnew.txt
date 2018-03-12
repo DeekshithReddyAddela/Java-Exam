@@ -1,0 +1,50 @@
+0.What is the size of Integer variable?;1)2 Bytes;2)4 Bytes;3)1 Byte;4)8 Bytes
+1.The class 'String' is present in which package?;1)util;2)lang;3)io;4)awt
+2.Which of these keyword must be used to inherit a class?;1implemets;2)this;3)extent;4)extends
+3Which of these keywords is used to refer to member of base class from a sub class?;1)upper;2)super;3)this;4)None of the mentioned
+4Which of these is correct way of inheriting class A by class B?;1) class B + class A {};2) class B inherits class A {};3) class B extends A {};4) class B extends class A {}
+5Which of these methods must be made static?;1) main();2) delete();3) run();4) finalize()
+6Which of these jump statements can skip processing remainder of code in its body for a particular iteration?;1) break;2) return;3) exit;4) continue
+7. Which of the following package stores all the standard java classes?;1)lang;2) java;3) util;4) java.packages
+8. An expression involving byte, int, and literal numbers is promoted to which of these?;1) int;2) long;3) byte;4) float
+9.Which of these values can a boolean variable contain?;1) True & False;2) 0 & 1;3) Any integer value;4) true
+10 Which of these can be returned by the operator & ?;1) Integer;2)Boolean;3) Character;4) Integer or Boolean
+11.What is the prototype of the default constructor of this class?;public class prototype { };1) prototype( );2) prototype(void);3) public prototype(void);4) public prototype( )
+12. Which of these is necessary to specify at time of array initialization?;1) Row;2) Column;3) Both Row and Column;4) None of the mentioned;
+13. Which of the following can be operands of arithmetic operators?;1) Numeric;2) Boolean;3) Characters;4) Both Numeric & Characters;
+14. Which of these have highest precedence?;1) ();2) ++;3) *;4) >>;
+15.Which of these statement is correct?;1) switch statement is more efficient than a set of nested ifs.;2) two case constants in the same switch can have identical values.;3) switch statement can only test for equality, whereas if statement can evaluate any type of boolean expression.;4) it is possible to create a nested switch statements.
+16. Which of these operators is used to allocate memory for an object?;1) malloc;2) alloc;3) new;4) give;
+17. Which of these statement is incorrect?;1) All object of a class are allotted memory for the all the variables defined in the class.;2) If a function is defined public it can be accessed by object of other class by inheritation.;3) main() method must be made public.;4) All object of a class are allotted memory for the methods defined in the class.;
+18. Which operator is used by Java run time implementations to free the memory of an object when it is no longer needed?;1) delete;2) free;3) new;4) None of the mentioned
+19. Which of these is correct about passing an argument by call-by-value process?;1) Copy of argument is made into the formal parameter of the subroutine.;2) Reference to original argument is passed to formal parameter of the subroutine.;3) Copy of argument is made into the formal parameter of the subroutine and changes made on parameters of subroutine have effect on original argument.;4) Reference to original argument is passed toformal parameter of the subroutine and changes made on parameters of subroutinehave effect on original argument.
+20. Which of these is used as default for a member of a class if no access specifier is used for it?;1) private;2) public;3) public, within its own package;4) protected
+21. Which of the following statements are incorrect?;1) public members of 21.class can be accessed by any code in the program.;2) private members of class can only be accessed by other members of the class.;3) private members of class can be inherited by a sub class, and become protected members in sub class.;4) protected members of a class can be inherited by a sub class, and become private members of the sub class.
+22. Which of these cannot be declared static?;1) class;2)object;3)variable;4) method
+23 Which of these can be used to test to strings for equality?;1) equal;2) isequals;3) equal();4) equals()
+24. Which of these keywords can be used to prevent Method overriding?;1) static;2) constant;3) protected;4) final
+25. Which of these is supported by method overriding in Java?;1) Abstraction;2) Encapsulation;3) Polymorphism;4) None of the mentioned
+26. Which of these method of Object class is used to obtain class of an object at run time?;1) get();2) void getclass();3) Class getclass();4) None of the mentioned
+27. Which of these method of class String is used to obtain length of String object?;1) get();2) Sizeof();3) lengthof();4) length()
+28. Which of these data type value is returned by equals() method of String class?;1) char;2) int;3) boolean;4) All of the mentioned
+29. What will s2 contain after following lines of code?;String s1 = “one”;String s2 = s1.concat(“two”);1) one;2) two;3) onetwo;4) twoone
+30. Which of these method of class StringBuffer is used to concatenate the string representation to the end of invoking string?;1) concat();2) append();3) join();4) concatenate()
+31. Which of these method of class StringBuffer is used to reverse sequence of characters?;1) reverse();2) reverseall();3) Reverse();4) reverseAll()
+32. Which of the following is incorrect statement about packages?;1) Package defines a namespace in which classes are stored.;2) A package can contain other package within it.;3) Java uses file system directories to store packages.;4) A package can be renamed without renaming the directory in which the classes are stored.
+33 Which of these access specifiers can be used for an interface?;1) Public;2) Protected;3) private;4) All of the mentioned
+34. Which of these classes is not included in java.lang?;1) Byte;2) Integer;3) Array;4) Class
+35. Which of the following method of Process class can terminate a process?;1) void kill();2) void destroy();3) void terminate();4) void exit()
+36. Which of these class holds a collection of static methods and variables?;1) Void;2) Process;3) Runtime;4) System
+37. Which of these class encapsulate the run time state of an object or an interface?;1) Class;2) Object;3) Runtime;4) System
+38. Which of these class is not related to input and output stream in terms of functioning?;1) File;2) Writer;3) InputStream;4) Reader
+39. Which of these data type is returned by every method of OutputStream?;1) int;2) float;3) byte;4) None of the mentioned
+40. Which of these process occur automatically by java run time system?;1) Serialization;2) Garbage collection;3) File Filtering;4) All of the mentioned
+41. Which of these operator is used to generate an instance of an exception than can be thrown by using throw?;1) new;2) malloc;3) alloc;4) thrown;
+42. What is the default value of priority variable MIN_PRIORITY AND MAX_PRIORITY?;1) 0 & 5;2) 0 & 1;3) 1 & 10;4) 1 & 256
+43. Which of these interface is implemented by Thread class?;1) Runnable;2) Connections;3) Set;4) MapConnections
+44. Which of these statements is incorrect?;1) By multithreading CPU’s idle time is minimized, and we can take maximum use of it.;2) By multitasking CPU’s idle time is minimized, and we can take maximum use of it.;3) Two thread in Java can have same priority;4) A thread can exist only in two states, running and blocked.
+45. What is multithreaded programming?;1) It’s a process in which two different processes run simultaneously.;2) It’s a process in which two or more parts of same process run simultaneously.;3) Its a process in which many different process are able to access same information.;4) Its a process in which a single process can access information from many sources.
+46. Which of these method wakes up all the threads?;1) wakeAll();2) notify();3) start();4) notifyAll()
+47. A single try block must be followed by which of these?;1) finally;2) catch;3) finally & catch;4) None of the mentioned
+48. Which of the following are legal lines of Java code?;1. int w = (int)888.8;2. byte x = (byte)100L;3. long y = (byte)100;4. byte z = (byte)100L;1) 1 and 2;2) 2 and 3;3) 3 and 4;4) All statements are correct.
+49. Which of these methods return string equivalent of Boolean object?;1) getString();2) toString();3) converString();4) getStringObject()
