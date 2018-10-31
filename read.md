@@ -2,8 +2,11 @@ Java Exam
 
 exam application using java
 
-has:
+it has
 questions file
 answers file
 user file
-creates results file
+
+and creates results file
+
+run SwingEx2.java
